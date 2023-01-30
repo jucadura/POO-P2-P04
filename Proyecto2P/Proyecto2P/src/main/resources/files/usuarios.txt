@@ -1,0 +1,3 @@
+nombre,apellido,usuario,contrase�a,telefono,tipo
+pepito,grillo,pepeg,pinocho123,0987654321,C
+carlos,piwawe,capiw,carlos1,0994807073,C

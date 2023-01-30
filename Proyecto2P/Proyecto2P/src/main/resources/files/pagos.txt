@@ -1,0 +1,11 @@
+Idpago,idpedido,nombreCLiente,totalPagar,fecha,tipo
+68209,11108,pepito grillo,4.48,2023-01-29,E
+60626,63562,pepito grillo,15.16,2023-01-29,E
+36931,40699,pepito grillo,22.4,2023-01-29,E
+75631,58738,pepito grillo,44.8,2023-01-29,E
+86591,56995,pepito grillo,4.48,2023-01-29,E
+38626,40763,pepito grillo,8.96,2023-01-29,E
+82968,54955,pepito grillo,25.84,2023-01-29,E
+98186,64796,pepito grillo,4.704000000000001,2023-01-29,C
+79869,27218,carlos piwawe,13.44,2023-01-29,E
+06087,94128,carlos piwawe,49.2,2023-01-29,E

@@ -1,0 +1,14 @@
+Idpedido,nombreCliente,total
+02297,pepito grillo,15.040000000000001
+73269,pepito grillo,5.6
+11108,pepito grillo,4.48
+63562,pepito grillo,15.16
+40699,pepito grillo,22.4
+58738,pepito grillo,44.8
+56995,pepito grillo,4.48
+40763,pepito grillo,8.96
+54955,pepito grillo,25.84
+64796,pepito grillo,4.48
+89344,carlos piwawe,8.96
+27218,carlos piwawe,13.44
+94128,carlos piwawe,49.2

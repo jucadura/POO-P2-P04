@@ -1,0 +1,8 @@
+descripcion,precio,tipo
+hamburguesa simple,5.00,F
+tiramisu,4.00,P
+coca cola 400 ml,2.00,B
+cheese fingers x5,3.00,Q
+salchipapa,1.00,F
+Fanta 400 ml,1.00,B
+guatita,3.00,F
