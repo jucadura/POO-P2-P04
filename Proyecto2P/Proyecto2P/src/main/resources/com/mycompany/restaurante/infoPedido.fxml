@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:id="root" alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.restaurante.InfoPedidoController">
+   <children>
+      <Label text="¡Muchas Gracias!" textFill="#ed9700">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblInfo">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label text="En aproximadamento en 30 minutos llegará a su destino.">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label text="Gracias por preferirnos.">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="217.0" fitWidth="161.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../img/repartidor.png" />
+         </image>
+      </ImageView>
+      <VBox alignment="BOTTOM_RIGHT" prefHeight="23.0" prefWidth="600.0">
+         <children>
+            <Label fx:id="lblTiempo" prefHeight="17.0" prefWidth="133.0">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+         <VBox.margin>
+            <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+         </VBox.margin>
+      </VBox>
+   </children>
+</VBox>
