@@ -33,7 +33,7 @@ import logica.Local;
 /**
  * FXML Controller class
  *
- * @author Michael
+ * @author Grupo2
  */
 public class LocalesController implements Initializable {
 

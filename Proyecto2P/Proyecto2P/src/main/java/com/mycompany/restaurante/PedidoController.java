@@ -42,7 +42,7 @@ import logica.ValorInsuficienteException;
 /**
  * FXML Controller class
  *
- * @author Michael
+ * @author Grupo2
  */
 public class PedidoController implements Initializable {
 

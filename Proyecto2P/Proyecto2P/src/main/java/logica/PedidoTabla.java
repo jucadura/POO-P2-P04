@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Michael
+ * @author Grupo2
  */
 public class PedidoTabla extends Menu implements Serializable{
     private int cantidad;

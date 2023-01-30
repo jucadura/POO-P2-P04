@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Michael
+ * @author Grupo2
  */
 public class Pedido implements Serializable{
     private String idPedido;

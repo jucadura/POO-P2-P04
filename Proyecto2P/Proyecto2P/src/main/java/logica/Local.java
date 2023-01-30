@@ -6,7 +6,7 @@ package logica;
 
 /**
  *
- * @author Michael
+ * @author Grupo2
  */
 public class Local {
     private String nombre;

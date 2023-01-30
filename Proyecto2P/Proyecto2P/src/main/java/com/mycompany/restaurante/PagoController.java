@@ -36,7 +36,7 @@ import logica.TipoPedido;
 /**
  * FXML Controller class
  *
- * @author Michael
+ * @author Grupo2
  */
 public class PagoController implements Initializable {
 

@@ -9,3 +9,4 @@ Idpago,idpedido,nombreCLiente,totalPagar,fecha,tipo
 98186,64796,pepito grillo,4.704000000000001,2023-01-29,C
 79869,27218,carlos piwawe,13.44,2023-01-29,E
 06087,94128,carlos piwawe,49.2,2023-01-29,E
+54853,11244,carlos piwawe,30.24,2023-01-29,E

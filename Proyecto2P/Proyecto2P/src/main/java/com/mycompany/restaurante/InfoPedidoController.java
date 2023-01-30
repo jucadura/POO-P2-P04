@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author Michael
+ * @author Grupo2
  */
 public class InfoPedidoController implements Initializable {
 

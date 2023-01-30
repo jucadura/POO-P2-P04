@@ -12,3 +12,4 @@ Idpedido,nombreCliente,total
 89344,carlos piwawe,8.96
 27218,carlos piwawe,13.44
 94128,carlos piwawe,49.2
+11244,carlos piwawe,30.24

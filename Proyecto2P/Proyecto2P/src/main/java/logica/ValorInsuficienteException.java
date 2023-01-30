@@ -8,7 +8,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Michael
+ * @author Grupo2
  */
 public class ValorInsuficienteException extends IOException{
 

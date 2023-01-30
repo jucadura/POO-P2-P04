@@ -17,7 +17,7 @@ import java.util.ArrayList;
 /**
  * Clase para leer y escribir archivos
  *
- * @author pro
+ * @author Grupo2
  */
 public class Archivos {
 

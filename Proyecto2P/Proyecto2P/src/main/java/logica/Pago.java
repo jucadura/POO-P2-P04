@@ -8,7 +8,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author Michael
+ * @author Grupo2
  */
 public class Pago {
     private String idPago;
