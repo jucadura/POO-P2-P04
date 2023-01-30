@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.Pane?>
+
+
+<ScrollPane xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.restaurante.LocalesController">
+   <content>
+      <Pane fx:id="paneMapa" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1778.0" prefWidth="2628.0" style="-fx-background-image: url('file:src/main/resources/img/mapa2.png');" />
+   </content>
+</ScrollPane>
